@@ -1,0 +1,483 @@
+# CSES Problem Categorization by Difficulty
+
+## Must Solve
+
+### Introductory Problems
+- [ ] Weird Algorithm
+- [ ] Missing Number
+- [ ] Repetitions
+- [ ] Increasing Array
+- [ ] Permutations
+- [ ] Number Spiral
+- [ ] Two Knights
+- [ ] Two Sets
+- [ ] Bit Strings
+- [ ] Trailing Zeros
+- [ ] Coin Piles
+- [ ] Palindrome Reorder
+
+### Sorting and Searching
+- [ ] Distinct Numbers
+- [ ] Apartments
+- [ ] Ferris Wheel
+- [ ] Concert Tickets
+- [ ] Restaurant Customers
+- [ ] Movie Festival
+- [ ] Sum of Two Values
+- [ ] Maximum Subarray Sum
+- [ ] Stick Lengths
+- [ ] Missing Coin Sum
+- [ ] Collecting Numbers
+
+### Dynamic Programming
+- [ ] Dice Combinations
+- [ ] Minimizing Coins
+- [ ] Coin Combinations I
+- [ ] Coin Combinations II
+- [ ] Removing Digits
+- [ ] Grid Paths
+- [ ] Book Shop
+- [ ] Array Description
+
+### Graph Algorithms
+- [ ] Counting Rooms
+- [ ] Labyrinth
+- [ ] Building Roads
+- [ ] Message Route
+- [ ] Building Teams
+- [ ] Round Trip
+- [ ] Monsters
+- [ ] Shortest Routes I
+- [ ] Shortest Routes II
+
+### Range Queries
+- [ ] Static Range Sum Queries
+- [ ] Static Range Minimum Queries
+- [ ] Dynamic Range Sum Queries
+- [ ] Dynamic Range Minimum Queries
+- [ ] Range Xor Queries
+
+### Tree Algorithms
+- [ ] Subordinates
+- [ ] Tree Diameter
+- [ ] Tree Distances I
+
+### Mathematics
+- [ ] Exponentiation
+- [ ] Counting Divisors
+- [ ] Binomial Coefficients
+
+### String Algorithms
+- [ ] String Matching
+- [ ] Finding Borders
+
+### Geometry
+- [ ] Point Location Test
+- [ ] Polygon Area
+
+## Intermediate
+
+### Introductory Problems
+- [ ] Gray Code
+- [ ] Tower of Hanoi
+- [ ] Creating Strings
+- [ ] Apple Division
+- [ ] Chessboard and Queens
+- [ ] Digit Queries
+- [ ] String Reorder
+
+### Sorting and Searching
+- [ ] Collecting Numbers II
+- [ ] Playlist
+- [ ] Towers
+- [ ] Traffic Lights
+- [ ] Josephus Problem I
+- [ ] Nested Ranges Check
+- [ ] Room Allocation
+- [ ] Factory Machines
+- [ ] Tasks and Deadlines
+- [ ] Reading Books
+- [ ] Sum of Three Values
+- [ ] Sum of Four Values
+- [ ] Nearest Smaller Values
+- [ ] Subarray Sums I
+- [ ] Subarray Sums II
+- [ ] Subarray Divisibility
+- [ ] Array Division
+
+### Dynamic Programming
+- [ ] Counting Towers
+- [ ] Edit Distance
+- [ ] Rectangle Cutting
+- [ ] Money Sums
+- [ ] Removal Game
+- [ ] Two Sets II
+- [ ] Increasing Subsequence
+- [ ] Projects
+
+### Graph Algorithms
+- [ ] High Score
+- [ ] Flight Discount
+- [ ] Cycle Finding
+- [ ] Flight Routes
+- [ ] Round Trip II
+- [ ] Course Schedule
+- [ ] Longest Flight Route
+- [ ] Game Routes
+- [ ] Investigation
+- [ ] Road Reparation
+- [ ] Road Construction
+- [ ] Flight Routes Check
+- [ ] Planets Queries I
+
+### Range Queries
+- [ ] Range Update Queries
+- [ ] Forest Queries
+- [ ] Hotel Queries
+- [ ] List Removals
+- [ ] Salary Queries
+- [ ] Prefix Sum Queries
+- [ ] Pizzeria Queries
+- [ ] Subarray Sum Queries
+
+### Tree Algorithms
+- [ ] Tree Matching
+- [ ] Tree Distances II
+- [ ] Company Queries I
+- [ ] Company Queries II
+- [ ] Distance Queries
+- [ ] Counting Paths
+- [ ] Subtree Queries
+- [ ] Path Queries
+- [ ] Distinct Colors
+- [ ] Finding a Centroid
+
+### Mathematics
+- [ ] Exponentiation II
+- [ ] Common Divisors
+- [ ] Sum of Divisors
+- [ ] Creating Strings II
+- [ ] Distributing Apples
+- [ ] Christmas Party
+- [ ] Fibonacci Numbers
+- [ ] Throwing Dice
+- [ ] Graph Paths I
+- [ ] Graph Paths II
+- [ ] Dice Probability
+- [ ] Stick Game
+- [ ] Nim Game I
+- [ ] Nim Game II
+- [ ] Stair Game
+
+### String Algorithms
+- [ ] Word Combinations
+- [ ] Finding Periods
+- [ ] Longest Palindrome
+- [ ] Palindrome Queries
+
+### Geometry
+- [ ] Line Segment Intersection
+- [ ] Point in Polygon
+- [ ] Polygon Lattice Points
+- [ ] Minimum Euclidean Distance
+- [ ] Convex Hull
+
+### Sliding Window Problems
+- [ ] Sliding Window Sum
+- [ ] Sliding Window Minimum
+- [ ] Sliding Window Median
+- [ ] Sliding Window Cost
+
+### Bitwise Operations
+- [ ] Counting Bits
+- [ ] Maximum Xor Subarray
+- [ ] SOS Bit Problem
+
+## Advanced
+
+### Introductory Problems
+- [ ] Grid Paths
+- [ ] Raab Game I
+- [ ] Mex Grid Construction
+- [ ] Knight Moves Grid
+- [ ] Grid Coloring I
+
+### Sorting and Searching
+- [ ] Josephus Problem II
+- [ ] Nested Ranges Count
+- [ ] Distinct Values Subarrays II
+- [ ] Movie Festival II
+- [ ] Maximum Subarray Sum II
+- [ ] Distinct Values Subarrays
+- [ ] Distinct Values Subsequences
+
+### Dynamic Programming
+- [ ] Elevator Rides
+- [ ] Counting Tilings
+- [ ] Counting Numbers
+- [ ] Increasing Subsequence II
+- [ ] Longest Common Subsequence
+- [ ] Minimal Grid Path
+- [ ] Mountain Range
+
+### Graph Algorithms
+- [ ] Planets Queries II
+- [ ] Planets Cycles
+- [ ] Planets and Kingdoms
+- [ ] Giant Pizza
+- [ ] Coin Collector
+- [ ] Mail Delivery
+- [ ] De Bruijn Sequence
+- [ ] Teleporters Path
+- [ ] Hamiltonian Flights
+- [ ] Knight's Tour
+- [ ] Download Speed
+- [ ] Police Chase
+- [ ] School Dance
+- [ ] Distinct Routes
+
+### Range Queries
+- [ ] Forest Queries II
+- [ ] Range Updates and Sums
+- [ ] Polynomial Queries
+- [ ] Range Queries and Copies
+- [ ] Distinct Values Queries
+- [ ] Increasing Array Queries
+- [ ] Movie Festival Queries
+- [ ] Missing Coin Sum Queries
+- [ ] Visible Buildings Queries
+- [ ] Range Interval Queries
+- [ ] Subarray Sum Queries II
+- [ ] Distinct Values Queries II
+
+### Tree Algorithms
+- [ ] Path Queries II
+- [ ] Fixed-Length Paths I
+- [ ] Fixed-Length Paths II
+
+### Mathematics
+- [ ] Josephus Queries
+- [ ] Divisor Analysis
+- [ ] Prime Multiples
+- [ ] Counting Coprime Pairs
+- [ ] Next Prime
+- [ ] Permutation Order
+- [ ] Permutation Rounds
+- [ ] Bracket Sequences I
+- [ ] Bracket Sequences II
+- [ ] Counting Necklaces
+- [ ] Counting Grids
+- [ ] System of Linear Equations
+- [ ] Sum of Four Squares
+- [ ] Triangle Number Sums
+- [ ] Moving Robots
+- [ ] Candy Lottery
+- [ ] Inversion Probability
+- [ ] Grundy's Game
+- [ ] Another Game
+
+### String Algorithms
+- [ ] Minimal Rotation
+- [ ] All Palindromes
+- [ ] Required Substring
+- [ ] Finding Patterns
+- [ ] Counting Patterns
+- [ ] Pattern Positions
+- [ ] Distinct Substrings
+- [ ] Distinct Subsequences
+- [ ] Repeating Substring
+- [ ] String Functions
+- [ ] Inverse Suffix Array
+- [ ] String Transform
+- [ ] Substring Order I
+- [ ] Substring Order II
+- [ ] Substring Distribution
+
+### Geometry
+- [ ] Intersection Points
+- [ ] Line Segments Trace I
+- [ ] Line Segments Trace II
+- [ ] Lines and Queries I
+- [ ] Lines and Queries II
+- [ ] Area of Rectangles
+- [ ] Robot Path
+- [ ] Maximum Manhattan Distances
+- [ ] All Manhattan Distances
+
+### Advanced Techniques
+- [ ] Meet in the Middle
+- [ ] Hamming Distance
+- [ ] Reachable Nodes
+- [ ] Reachability Queries
+- [ ] Cut and Paste
+- [ ] Substring Reversals
+- [ ] Reversals and Sums
+- [ ] Necessary Roads
+- [ ] Necessary Cities
+- [ ] Eulerian Subgraphs
+- [ ] Monster Game I
+- [ ] Monster Game II
+- [ ] Subarray Squares
+- [ ] Houses and Schools
+- [ ] Knuth Division
+- [ ] Apples and Bananas
+- [ ] One Bit Positions
+- [ ] Signal Processing
+- [ ] New Roads Queries
+- [ ] Dynamic Connectivity
+- [ ] Parcel Delivery
+- [ ] Task Assignment
+- [ ] Distinct Routes II
+- [ ] Corner Subgrid Check
+- [ ] Corner Subgrid Count
+
+### Sliding Window Problems
+- [ ] Sliding Window Xor
+- [ ] Sliding Window Or
+- [ ] Sliding Window Distinct Values
+- [ ] Sliding Window Mode
+- [ ] Sliding Window Mex
+- [ ] Sliding Window Inversions
+- [ ] Sliding Window Advertisement
+
+### Interactive Problems
+- [ ] Hidden Integer
+- [ ] Hidden Permutation
+- [ ] K-th Highest Score
+- [ ] Permuted Binary Strings
+- [ ] Colored Chairs
+- [ ] Inversion Sorting
+
+### Bitwise Operations
+- [ ] Maximum Xor Subset
+- [ ] Number of Subset Xors
+- [ ] K Subset Xors
+- [ ] All Subarray Xors
+- [ ] Xor Pyramid Peak
+- [ ] Xor Pyramid Diagonal
+- [ ] Xor Pyramid Row
+- [ ] And Subset Count
+
+### Construction Problems
+- [ ] Inverse Inversions
+- [ ] Monotone Subsequences
+- [ ] Third Permutation
+- [ ] Permutation Prime Sums
+- [ ] Chess Tournament
+- [ ] Distinct Sums Grid
+- [ ] Filling Trominos
+- [ ] Grid Path Construction
+
+### Advanced Graph Problems
+- [ ] Nearest Shops
+- [ ] Prüfer Code
+- [ ] Tree Traversals
+- [ ] Course Schedule II
+- [ ] Acyclic Graph Edges
+- [ ] Strongly Connected Edges
+- [ ] Even Outdegree Edges
+- [ ] Graph Girth
+- [ ] Fixed Length Walk Queries
+- [ ] Transfer Speeds Sum
+- [ ] MST Edge Check
+- [ ] MST Edge Set Check
+- [ ] MST Edge Cost
+- [ ] Network Breakdown
+- [ ] Tree Coin Collecting I
+- [ ] Tree Coin Collecting II
+- [ ] Tree Isomorphism I
+- [ ] Tree Isomorphism II
+- [ ] Flight Route Requests
+- [ ] Critical Cities
+- [ ] Visiting Cities
+- [ ] Graph Coloring
+- [ ] Bus Companies
+- [ ] Split into Two Paths
+- [ ] Network Renovation
+- [ ] Forbidden Cities
+- [ ] Creating Offices
+- [ ] New Flight Routes
+
+### Counting Problems
+- [ ] Filled Subgrid Count I
+- [ ] Filled Subgrid Count II
+- [ ] All Letter Subgrid Count I
+- [ ] All Letter Subgrid Count II
+- [ ] Border Subgrid Count I
+- [ ] Border Subgrid Count II
+- [ ] Raab Game II
+- [ ] Empty String
+- [ ] Permutation Inversions
+- [ ] Counting Bishops
+- [ ] Counting Sequences
+- [ ] Grid Paths
+- [ ] Counting Permutations
+- [ ] Grid Completion
+- [ ] Counting Reorders
+- [ ] Tournament Graph Distribution
+- [ ] Collecting Numbers Distribution
+- [ ] Functional Graph Distribution
+
+### Additional Problems I
+- [ ] Shortest Subsequence
+- [ ] Distinct Values Sum
+- [ ] Distinct Values Splits
+- [ ] Swap Game
+- [ ] Beautiful Permutation II
+- [ ] Multiplication Table
+- [ ] Bubble Sort Rounds I
+- [ ] Bubble Sort Rounds II
+- [ ] Nearest Campsites I
+- [ ] Nearest Campsites II
+- [ ] Advertisement
+- [ ] Special Substrings
+- [ ] Counting LCM Arrays
+- [ ] Square Subsets
+- [ ] Subarray Sum Constraints
+- [ ] Water Containers Moves
+- [ ] Water Containers Queries
+- [ ] Stack Weights
+- [ ] Maximum Average Subarrays
+- [ ] Subsets with Fixed Average
+- [ ] Two Array Average
+- [ ] Pyramid Array
+- [ ] Permutation Subsequence
+- [ ] Bit Inversions
+- [ ] Writing Numbers
+- [ ] Letter Pair Move Game
+- [ ] Maximum Building I
+- [ ] Sorting Methods
+- [ ] Cyclic Array
+- [ ] List of Sums
+
+### Additional Problems II
+- [ ] Bouncing Ball Steps
+- [ ] Bouncing Ball Cycle
+- [ ] Knight Moves Queries
+- [ ] K Subset Sums I
+- [ ] K Subset Sums II
+- [ ] Increasing Array II
+- [ ] Food Division
+- [ ] Swap Round Sorting
+- [ ] Binary Subsequences
+- [ ] School Excursion
+- [ ] Coin Grid
+- [ ] Grid Coloring II
+- [ ] Programmers and Artists
+- [ ] Removing Digits II
+- [ ] Coin Arrangement
+- [ ] Replace with Difference
+- [ ] Grid Puzzle I
+- [ ] Grid Puzzle II
+- [ ] Bit Substrings
+- [ ] Reversal Sorting
+- [ ] Book Shop II
+- [ ] GCD Subsets
+- [ ] Minimum Cost Pairs
+- [ ] Same Sum Subsets
+- [ ] Mex Grid Queries
+- [ ] Maximum Building II
+- [ ] Stick Divisions
+- [ ] Stick Difference
+- [ ] Coding Company
+- [ ] Two Stacks Sorting
