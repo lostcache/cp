@@ -3,7 +3,7 @@
 ## Must Solve
 
 ### Introductory Problems
-- [ ] Weird Algorithm
+- [X] Weird Algorithm
 - [ ] Missing Number
 - [ ] Repetitions
 - [ ] Increasing Array
