@@ -4,17 +4,17 @@
 
 ### Introductory Problems
 - [X] Weird Algorithm
-- [ ] Missing Number
-- [ ] Repetitions
-- [ ] Increasing Array
-- [ ] Permutations
-- [ ] Number Spiral
-- [ ] Two Knights
-- [ ] Two Sets
-- [ ] Bit Strings
-- [ ] Trailing Zeros
-- [ ] Coin Piles
-- [ ] Palindrome Reorder
+- [X] Missing Number
+- [X] Repetitions
+- [X] Increasing Array
+- [X] Permutations
+- [X] Number Spiral
+- [X] Two Knights
+- [X] Two Sets
+- [X] Bit Strings
+- [X] Trailing Zeros
+- [X] Coin Piles
+- [X] Palindrome Reorder
 
 ### Sorting and Searching
 - [ ] Distinct Numbers
