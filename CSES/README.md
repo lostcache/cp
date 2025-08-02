@@ -17,17 +17,17 @@
 - [X] Palindrome Reorder
 
 ### Sorting and Searching
-- [ ] Distinct Numbers
-- [ ] Apartments
-- [ ] Ferris Wheel
-- [ ] Concert Tickets
-- [ ] Restaurant Customers
-- [ ] Movie Festival
-- [ ] Sum of Two Values
-- [ ] Maximum Subarray Sum
-- [ ] Stick Lengths
-- [ ] Missing Coin Sum
-- [ ] Collecting Numbers
+- [X] Distinct Numbers
+- [X] Apartments
+- [X] Ferris Wheel
+- [X] Concert Tickets
+- [X] Restaurant Customers
+- [X] Movie Festival
+- [X] Sum of Two Values
+- [X] Maximum Subarray Sum
+- [X] Stick Lengths
+- [X] Missing Coin Sum
+- [X] Collecting Numbers
 
 ### Dynamic Programming
 - [ ] Dice Combinations
