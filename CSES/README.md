@@ -30,14 +30,14 @@
 - [X] Collecting Numbers
 
 ### Dynamic Programming
-- [ ] Dice Combinations
-- [ ] Minimizing Coins
-- [ ] Coin Combinations I
-- [ ] Coin Combinations II
-- [ ] Removing Digits
-- [ ] Grid Paths
-- [ ] Book Shop
-- [ ] Array Description
+- [X] Dice Combinations
+- [X] Minimizing Coins
+- [X] Coin Combinations I
+- [X] Coin Combinations II
+- [X] Removing Digits
+- [X] Grid Paths
+- [X] Book Shop
+- [X] Array Description
 
 ### Graph Algorithms
 - [ ] Counting Rooms
