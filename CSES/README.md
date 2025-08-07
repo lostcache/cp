@@ -40,15 +40,15 @@
 - [X] Array Description
 
 ### Graph Algorithms
-- [ ] Counting Rooms
-- [ ] Labyrinth
-- [ ] Building Roads
-- [ ] Message Route
-- [ ] Building Teams
-- [ ] Round Trip
-- [ ] Monsters
-- [ ] Shortest Routes I
-- [ ] Shortest Routes II
+- [X] Counting Rooms
+- [X] Labyrinth
+- [X] Building Roads
+- [X] Message Route
+- [X] Building Teams
+- [X] Round Trip
+- [X] Monsters
+- [X] Shortest Routes I
+- [X] Shortest Routes II
 
 ### Range Queries
 - [ ] Static Range Sum Queries
