@@ -53,9 +53,9 @@
 ### Range Queries
 - [X] Static Range Sum Queries
 - [X] Static Range Minimum Queries
-- [ ] Dynamic Range Sum Queries
-- [ ] Dynamic Range Minimum Queries
-- [ ] Range Xor Queries
+- [X] Dynamic Range Sum Queries
+- [X] Dynamic Range Minimum Queries
+- [X] Range Xor Queries
 
 ### Tree Algorithms
 - [ ] Subordinates
