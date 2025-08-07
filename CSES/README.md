@@ -51,8 +51,8 @@
 - [X] Shortest Routes II
 
 ### Range Queries
-- [ ] Static Range Sum Queries
-- [ ] Static Range Minimum Queries
+- [X] Static Range Sum Queries
+- [X] Static Range Minimum Queries
 - [ ] Dynamic Range Sum Queries
 - [ ] Dynamic Range Minimum Queries
 - [ ] Range Xor Queries
