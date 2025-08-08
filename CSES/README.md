@@ -58,9 +58,9 @@
 - [X] Range Xor Queries
 
 ### Tree Algorithms
-- [ ] Subordinates
-- [ ] Tree Diameter
-- [ ] Tree Distances I
+- [X] Subordinates
+- [X] Tree Diameter
+- [X] Tree Distances I
 
 ### Mathematics
 - [ ] Exponentiation
