@@ -63,7 +63,7 @@
 - [X] Tree Distances I
 
 ### Mathematics
-- [ ] Exponentiation
+- [X] Exponentiation
 - [ ] Counting Divisors
 - [ ] Binomial Coefficients
 
