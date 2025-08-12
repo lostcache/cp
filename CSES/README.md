@@ -64,8 +64,8 @@
 
 ### Mathematics
 - [X] Exponentiation
-- [ ] Counting Divisors
-- [ ] Binomial Coefficients
+- [X] Counting Divisors
+- [X] Binomial Coefficients
 
 ### String Algorithms
 - [ ] String Matching
@@ -78,13 +78,13 @@
 ## Intermediate
 
 ### Introductory Problems
-- [ ] Gray Code
-- [ ] Tower of Hanoi
-- [ ] Creating Strings
-- [ ] Apple Division
-- [ ] Chessboard and Queens
-- [ ] Digit Queries
-- [ ] String Reorder
+- [X] Gray Code
+- [X] Tower of Hanoi
+- [X] Creating Strings
+- [X] Apple Division
+- [X] Chessboard and Queens
+- [X] Digit Queries
+- [X] String Reorder
 
 ### Sorting and Searching
 - [ ] Collecting Numbers II
