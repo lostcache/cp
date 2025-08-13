@@ -87,10 +87,10 @@
 - [X] String Reorder
 
 ### Sorting and Searching
-- [ ] Collecting Numbers II
-- [ ] Playlist
-- [ ] Towers
-- [ ] Traffic Lights
+- [X] Collecting Numbers II
+- [X] Playlist
+- [X] Towers
+- [X] Traffic Lights
 - [ ] Josephus Problem I
 - [ ] Nested Ranges Check
 - [ ] Room Allocation
