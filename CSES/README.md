@@ -91,15 +91,15 @@
 - [X] Playlist
 - [X] Towers
 - [X] Traffic Lights
-- [ ] Josephus Problem I
-- [ ] Nested Ranges Check
-- [ ] Room Allocation
-- [ ] Factory Machines
-- [ ] Tasks and Deadlines
-- [ ] Reading Books
-- [ ] Sum of Three Values
-- [ ] Sum of Four Values
-- [ ] Nearest Smaller Values
+- [X] Josephus Problem I
+- [X] Nested Ranges Check
+- [X] Room Allocation
+- [X] Factory Machines
+- [X] Tasks and Deadlines
+- [X] Reading Books
+- [X] Sum of Three Values
+- [X] Sum of Four Values
+- [X] Nearest Smaller Values
 - [ ] Subarray Sums I
 - [ ] Subarray Sums II
 - [ ] Subarray Divisibility
