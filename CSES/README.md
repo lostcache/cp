@@ -100,20 +100,20 @@
 - [X] Sum of Three Values
 - [X] Sum of Four Values
 - [X] Nearest Smaller Values
-- [ ] Subarray Sums I
-- [ ] Subarray Sums II
-- [ ] Subarray Divisibility
-- [ ] Array Division
+- [X] Subarray Sums I
+- [X] Subarray Sums II
+- [X] Subarray Divisibility
+- [X] Array Division
 
 ### Dynamic Programming
-- [ ] Counting Towers
-- [ ] Edit Distance
-- [ ] Rectangle Cutting
-- [ ] Money Sums
-- [ ] Removal Game
-- [ ] Two Sets II
-- [ ] Increasing Subsequence
-- [ ] Projects
+- [X] Counting Towers
+- [X] Edit Distance
+- [X] Rectangle Cutting
+- [X] Money Sums
+- [X] Removal Game
+- [X] Two Sets II
+- [X] Increasing Subsequence
+- [X] Projects
 
 ### Graph Algorithms
 - [ ] High Score
