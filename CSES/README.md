@@ -116,8 +116,8 @@
 - [X] Projects
 
 ### Graph Algorithms
-- [ ] High Score
-- [ ] Flight Discount
+- [X] High Score
+- [X] Flight Discount
 - [ ] Cycle Finding
 - [ ] Flight Routes
 - [ ] Round Trip II
