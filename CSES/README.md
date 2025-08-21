@@ -118,9 +118,9 @@
 ### Graph Algorithms
 - [X] High Score
 - [X] Flight Discount
-- [ ] Cycle Finding
-- [ ] Flight Routes
-- [ ] Round Trip II
+- [X] Cycle Finding
+- [X] Flight Routes
+- [X] Round Trip II
 - [ ] Course Schedule
 - [ ] Longest Flight Route
 - [ ] Game Routes
