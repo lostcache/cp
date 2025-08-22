@@ -121,10 +121,10 @@
 - [X] Cycle Finding
 - [X] Flight Routes
 - [X] Round Trip II
-- [ ] Course Schedule
-- [ ] Longest Flight Route
-- [ ] Game Routes
-- [ ] Investigation
+- [X] Course Schedule
+- [X] Longest Flight Route
+- [X] Game Routes
+- [X] Investigation
 - [ ] Road Reparation
 - [ ] Road Construction
 - [ ] Flight Routes Check
