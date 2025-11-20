@@ -125,10 +125,10 @@
 - [X] Longest Flight Route
 - [X] Game Routes
 - [X] Investigation
-- [ ] Road Reparation
-- [ ] Road Construction
-- [ ] Flight Routes Check
-- [ ] Planets Queries I
+- [X] Road Reparation
+- [X] Road Construction
+- [X] Flight Routes Check
+- [X] Planets Queries I
 
 ### Range Queries
 - [ ] Range Update Queries
